@@ -2,7 +2,7 @@
 ###### Noam Chomsky
 Noam Chomsky's No Kings statements from historical documents written in his long beautiful giving life.
 
-Noam Chomsky: "No Kings, No Masters” — America’s Uprising Against Power (Must Watch!)
+Noam Chomsky: "No Kings, No Masters” — America’s Uprising Against Power (Please Read!)
 
 Noam Chomsky Motivation
 
