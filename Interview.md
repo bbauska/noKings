@@ -1,35 +1,5 @@
 <h1>2025</h1>
 <p>March 20, 2025 a start to the fight against big fucks small. fuck libertarian liars.</p>
-<a href="www.tutsplus.com">Tutsplus.com</a>
-
-<ol>
-  <li>Step 1: Learn HTML and CSS(do not ignore).</li>
-  <li>Step 2: Responsive Design and Design Concepts.</li>
-  <li>Step 3: Javascript and jQuery(tutsplus has a free jquery course).</li>
-  <li>Step 4: A Programming language. Php is easy. Or try Ruby.</li>
-  <li>Step 5: Pick up some sql basics.</li>
-  <li>Step 6: Develop a basic app that you find interesting.</li>
-  <li>Step 7: Get used to using a web framework. Laravel for php or rails for ruby.</li>
-</ol>
-<p>Those are somethings I can think of right now. It does take a good amount of time and practice 
-to understand the different pieces. So don't expect to start today and finish it off by tomorrow. 
-The key is to keep learning and keep doing it. Just make sure you love what you do and you'll 
-be good in no time :).</p>
-<p>Start by exploring basic web development concepts through YouTube tutorials. Channels like 
-Sonny Sangha, Code With Antonio, and JavaScript Mastery offer beginner-friendly videos that 
-introduce you to the world of web development. Spend some time each day watching these 
-tutorials to get comfortable with the basics.</p>
-<ul>
-  <li>The new bostan</li>
-  <li>Derek banas</li>
-  <li>Slidenerd</li>
-  <li>Programming knowledge</li>
-  <li>Travery media</li>
-  <li>Clever programmer</li>
-  <li>Code damn</li>
-  <li>My code school</li>
-  <li>DesignCourse</li>
-</ul>
 
 <h2>Pride is the unwillingness to be wrong.</h2>
 <h2>Humility is the opposite.</h2>
