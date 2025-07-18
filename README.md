@@ -13,6 +13,9 @@
 <!-- Bannon is an absolutist = King Trump -->
 <!-- Next target, Inspectors general (17 in total fired without notice) -->
 <!-- Far less transparancy -->
+<!-- Harvard, NPR, PBS are fighting -->
+<!-- Most others capitulated. Especially big law firms: pussies gave in -->
+<!-- to the biggest pussy of them all. DJT -->
 <h3>Noam Chomsky || The Harsh Reality Of Trump They Always Hide From You !</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <cite>Bringing you timeless insight and radical clarity from one of the greatest thinkers of our time.</cite>
