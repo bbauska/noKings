@@ -4,6 +4,9 @@
 <!-- federalist society: Real scumbags for Trump. Pathetic excuse for lawyers, judges -->
 <!-- President is king - many conservative lawyers quit. Too many stayed. -->
 <!-- Mayor Adams of New York sucked Trump's dick and got out of prosecution -->
+<!-- no independence in FBI any longer. -->
+!<!-- Jan 6th over 2,000 released from felony crimes against America. -->
+<!-- Christian Nationalist -  Project 2025 - the worst of the worst -->
 <h3>Noam Chomsky || The Harsh Reality Of Trump They Always Hide From You !</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <cite>Bringing you timeless insight and radical clarity from one of the greatest thinkers of our time.</cite>
