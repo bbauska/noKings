@@ -7,6 +7,8 @@
 <!-- no independence in FBI any longer. -->
 !<!-- Jan 6th over 2,000 released from felony crimes against America. -->
 <!-- Christian Nationalist -  Project 2025 - the worst of the worst -->
+<!-- 14,000 to 300 cut in USAID - pure evil. -->
+<!-- Dead stop - can not save lives. -->
 <h3>Noam Chomsky || The Harsh Reality Of Trump They Always Hide From You !</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <cite>Bringing you timeless insight and radical clarity from one of the greatest thinkers of our time.</cite>
