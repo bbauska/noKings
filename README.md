@@ -1,6 +1,9 @@
 &num;NoamChomsky &num;TheHarshTruth &num;TrumpSpeech &num;AmericanPolitics 
 &num;DemocracyCrisis &num;Chomsky2025 &num;truthmatters 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- federalist society: Real scumbags for Trump. Pathetic excuse for lawyers, judges -->
+<!-- President is king - many conservative lawyers quit. Too many stayed. -->
+<!-- Mayor Adams of New York sucked Trump's dick and got out of prosecution -->
 <h3>Noam Chomsky || The Harsh Reality Of Trump They Always Hide From You !</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <cite>Bringing you timeless insight and radical clarity from one of the greatest thinkers of our time.</cite>
