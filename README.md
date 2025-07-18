@@ -11,7 +11,7 @@
 <!-- Dead stop - can not save lives. -->
 <!-- https://www.youtube.com/watch?v=28sQyweAPRs&ab_channel=FRONTLINEPBS%7COfficial -->
 <!-- Bannon is an absolutist = King Trump -->
-<!-- Next target, Inspectors general -->
+<!-- Next target, Inspectors general (17 in total fired without notice) -->
 <h3>Noam Chomsky || The Harsh Reality Of Trump They Always Hide From You !</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <cite>Bringing you timeless insight and radical clarity from one of the greatest thinkers of our time.</cite>
