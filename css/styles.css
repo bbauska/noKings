@@ -6,27 +6,23 @@
 :after {
   box-sizing: border-box;
 }
-
 body {
   background-color: #1d1f20;  /* very dark blue */
   color: #e5e5e5;  /* very light gray */
   font: 14px/1.25 'Crimson Text', sans-serif;
   margin: 0;
 }
-
 /* was font: 16px */
 #wrapper {
   margin-left: auto;
   margin-right: auto;
   max-width: 80em;
 }
-
 #container {
   float: left;
   padding: 1em;
   width: 100%;
 }
-
 /*** OPEN BOOK ***/
 .open-book {
   background: #fff;  /* white */
@@ -37,7 +33,6 @@ body {
 .open-book * {
   position: relative;
 }
-
 /* open-book Highlight */
 .open-book *::-moz-selection {
   background: rgba(222,255,0,0.75);
@@ -45,7 +40,6 @@ body {
 .open-book *::selection {
   background: rgba(222,255,0,0.75);
 }
-
 /* open-book Header/Footer */
 .open-book header {
   padding-bottom: 1em;
@@ -75,7 +69,6 @@ body {
 .open-book iframe {
   text-align: center;
 }
-
 /* open-book Chapter Title */
 .open-book .chapter-title {
   background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA2NCA2NCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNjQgNjQ7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCiAgICA8Zz4NCiAgICAJPHBhdGggZD0iTTAsMzJMMzIsMGwzMiwzMkwzMiw2NEwwLDMyeiBNOCwzMmwyNCwyNGwyNC0yNEwzMiw4TDgsMzJ6IE0xNiwzMmwxNi0xNmwxNiwxNkwzMiw0OEwxNiwzMnogTTI0LDMybDgsOGw4LThsLTgtOEwyNCwzMnoiIC8+DQogICAgPC9nPg0KPC9zdmc+) bottom center no-repeat;
@@ -104,7 +97,6 @@ body {
 .open-book .chapter-title:after {
   right: 0;
 }
-
 /* open-book Body Copy */
 .open-book article {
   line-height: 1.5;
@@ -178,18 +170,16 @@ body {
   display: block;
   margin: 0 auto; 
 }
-
 sup {
   color: #cc0000;  /* strong red */
   line-height: 0;
   font-size: 70%;
   font-weight: 900;
 }
-
 span {
   background: linear-gradient(to bottom, rgba(222,255,0,1) 0%,rgba(222,255,0,0.5) 60%,rgba(222,255,0,1) 100%);
 }
- 
+
 /*** MEDIA QUERIES ends approx line 328 ***/
 @media only screen and ( min-width: 50em ) {
   .open-book {
@@ -224,7 +214,6 @@ span {
     position: relative;
     z-index: 1;
   }
-  
   /* open-book Header/Footer */
   .open-book header:before,
   .open-book header:after,
@@ -293,7 +282,6 @@ span {
   .open-book footer #page-numbers {
     display: block;
   }
-  
   /* open-book Chapter Title */
   .open-book .chapter-title {
     font-size: 2em;  /* 3em; */
@@ -302,7 +290,6 @@ span {
   .open-book .chapter-title:after {
     height: 0.125em;
   }
-  
   /* open-book Body Copy */
   .open-book article p {
     text-indent: 2em;  /* 3em; */
